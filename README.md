@@ -1,6 +1,6 @@
 # ChainsAtlas: A Multi-Chain Interoperability Network
 
-> **Note**: this README contains only excerpts, please have a look at the PDF version https://github.com/ChainsAtlas/whitepaper/blob/main/whitepaper.pdf
+> **Note**: this README contains only excerpts, please have a look at the PDF version https://raw.githubusercontent.com/ChainsAtlas/whitepaper/main/whitepaper.pdf
 
 > **Note**: If you like the whitepaper, please consider adding a star to the repository
 
